@@ -103,10 +103,3 @@ The previous response can be retrieved:
 ```typescript
 let token = this.captcha.getResponse();
 ```
-
-
-##Build Instructions
-npm run build:lib
-cd dist
-npm pack
-npm publish
