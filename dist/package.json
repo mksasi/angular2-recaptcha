@@ -1,7 +1,7 @@
 {
   "name": "@mksasi/angular2-recaptcha",
-  "version": "11.0.1",
-  "description": "Angular 11 component for Google reCaptcha",
+  "version": "12.0.0",
+  "description": "Angular 12 component for Google reCaptcha",
   "main": "bundles/mksasi-angular2-recaptcha.umd.js",
   "repository": {
     "type": "git",
@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/mksasi/angular2-recaptcha#readme",
   "allowedNonPeerDependencies": {
-    "ng-packagr": "^11.2.4"
+    "ng-packagr": "^12.0.0"
   },
   "module": "fesm2015/mksasi-angular2-recaptcha.js",
   "es2015": "fesm2015/mksasi-angular2-recaptcha.js",
@@ -28,6 +28,6 @@
   "metadata": "mksasi-angular2-recaptcha.metadata.json",
   "sideEffects": false,
   "dependencies": {
-    "tslib": "^2.0.0"
+    "tslib": "^2.1.0"
   }
 }
