@@ -4,6 +4,7 @@ factories
 
 
 # misc
+/.angular/cache
 *.log
 .idea
 *.d.ts
